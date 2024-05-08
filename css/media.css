@@ -1,0 +1,61 @@
+@media (max-width: 575px) {
+    .mobile_img {
+        display: none;
+    }
+    header {
+        text-align: center;
+    }
+    .nav-link {
+        display: inline-flex;
+        margin-bottom: 14px;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none
+    }
+    .about_long {
+        text-align: center;
+    }
+    .phone {
+        width: 60%;
+        margin: auto;
+    }
+    .about_item span {
+        margin: auto;
+    }
+    .about_imgitem {
+        margin: 0px 75px 0px 186px;
+    }
+    .about_long ul {
+        width: 50%;
+        margin-left: 35%;
+    }
+    .testi_item {
+        justify-content: center;
+    }
+    .price_table {
+        width: 70%;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    .contact_item {
+        margin-bottom: 22px;
+    }
+    .contact i {
+        margin-bottom: 8px;
+    }
+    .contact_from {
+        width: 70%;
+        
+    }
+    .text-end {
+        text-align: center !important;
+    }
+    .Prostokąt h2 {
+        font-size: 29px;  
+        margin-bottom: 24px;
+    }
+ 
+
+
+
+}
